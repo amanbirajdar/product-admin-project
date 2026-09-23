@@ -10,7 +10,10 @@
       "Bash(curl -s http://localhost:3000/products)",
       "Bash(git commit -m 'chore: Update exchange rate date and Claude settings *)",
       "Bash(gh auth *)",
-      "Bash(git commit -m 'chore: Update local settings *)"
+      "Bash(git commit -m 'chore: Update local settings *)",
+      "Bash(where git *)",
+      "Bash(git --version)",
+      "Bash(where gh *)"
     ]
   }
 }
