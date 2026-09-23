@@ -13,7 +13,14 @@
       "Bash(git commit -m 'chore: Update local settings *)",
       "Bash(where git *)",
       "Bash(git --version)",
-      "Bash(where gh *)"
+      "Bash(where gh *)",
+      "WebFetch(domain:github.com)",
+      "Bash(where github *)",
+      "Bash(start https://github.com/new)",
+      "Bash(github .)",
+      "Bash(where code *)",
+      "Bash(where code.exe)",
+      "Bash(ls \"C:\\\\Users\\\\AMAN\\\\AppData\\\\Local\\\\GitHubDesktop\\\\bin\\\\github.exe\" 2>/dev/null && echo \"GitHub Desktop CLI available\")"
     ]
   }
 }
