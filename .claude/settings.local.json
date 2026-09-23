@@ -6,7 +6,9 @@
       "Bash(curl -s http://localhost:3000)",
       "Bash(git add *)",
       "Bash(git commit -m 'chore: Update Claude Code settings *)",
-      "Bash(git commit -m 'chore: Update Claude Code local settings *)"
+      "Bash(git commit -m 'chore: Update Claude Code local settings *)",
+      "Bash(curl -s http://localhost:3000/products)",
+      "Bash(git commit -m 'chore: Update exchange rate date and Claude settings *)"
     ]
   }
 }

@@ -7,7 +7,7 @@
  * Note: This is a fixed conversion for display purposes only
  * In a real application, you might fetch this from an API
  */
-const USD_TO_INR_RATE = 83.45; // Fixed exchange rate as of 2026-09-24
+const USD_TO_INR_RATE = 83.45; // Fixed exchange rate as of 2026-09-23
 
 /**
  * Convert USD amount to INR
