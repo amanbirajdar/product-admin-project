@@ -26,7 +26,8 @@
       "Bash(git push *)",
       "Bash(git commit -m 'chore: Update Claude Code permission settings *)",
       "Bash(git ls-remote *)",
-      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://github.com/aman-chaurasiya/product-admin-dashboard)"
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://github.com/aman-chaurasiya/product-admin-dashboard)",
+      "Bash(git commit -m 'docs: Update README with tech stack summary *)"
     ]
   }
 }
