@@ -2,7 +2,9 @@
 
 A modern product management dashboard built with Next.js • React • Tailwind CSS • Axios. This application provides a complete admin interface for managing products with authentication, search, filtering, pagination, and CRUD operations.
 
-🔗 **Live Demo**: Pending Vercel deployment`r`n`r`n🔗 **Repository**: https://github.com/amanbirajdar/product-admin-project
+🔗 **Live Demo**: Pending Vercel deployment
+
+🔗 **Repository**: https://github.com/amanbirajdar/product-admin-project
 
 ## 📋 Features Implemented
 
@@ -36,8 +38,7 @@ A modern product management dashboard built with Next.js • React • Tailwind 
 
 1. Clone the repository:
 ```bash
-git clone [your-github-repo-url]
-cd [repo-name]
+git clone https://github.com/amanbirajdar/product-admin-project.git`r`ncd product-admin-project
 ```
 
 2. Install dependencies:
@@ -147,7 +148,11 @@ src/
 2. **Request Cancellation**: Used Axios CancelToken to cancel in-flight requests when new search starts
 3. **Error Handling**: Checked `axios.isCancel()` to silently ignore cancelled requests
 
-This ensures the UI always shows results from the most recent search query, even when typing quickly.`r`n`r`n### AI Assistance`r`n`r`nAI helped accelerate repository exploration, configuration review, README documentation, and troubleshooting during implementation. All generated suggestions were reviewed and adapted to match the application's existing architecture and behavior.
+This ensures the UI always shows results from the most recent search query, even when typing quickly.
+
+### AI Assistance
+
+AI helped accelerate repository exploration, configuration review, README documentation, and troubleshooting during implementation. All generated suggestions were reviewed and adapted to match the application's existing architecture and behavior.
 
 
 ## 🧪 Testing Checklist
