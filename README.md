@@ -2,7 +2,7 @@
 
 A modern product management dashboard built with Next.js • React • Tailwind CSS • Axios. This application provides a complete admin interface for managing products with authentication, search, filtering, pagination, and CRUD operations.
 
-🔗 **Live Demo**: Pending Vercel deployment
+🔗 **Live Demo**: https://product-admin-project.vercel.app
 
 🔗 **Repository**: https://github.com/amanbirajdar/product-admin-project
 
