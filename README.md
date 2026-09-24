@@ -1,6 +1,6 @@
 # Product Admin Dashboard
 
-A modern product management dashboard built with Next.js 16+, React 19, TypeScript, and Tailwind CSS v4. This application provides a complete admin interface for managing products with authentication, search, filtering, pagination, and CRUD operations.
+A modern product management dashboard built with Next.js • React • Tailwind CSS • Axios. This application provides a complete admin interface for managing products with authentication, search, filtering, pagination, and CRUD operations.
 
 🔗 **Live Demo**: [Add your Vercel/Netlify link here]
 
@@ -203,17 +203,16 @@ Everything else - the component architecture, state management, pagination logic
    - Publish directory: `.next`
 6. Click "Deploy site"
 
-## 📦 Technologies Used
+## 📦 Built With
 
-- **Next.js 16+** - React framework with App Router
-- **React 19** - UI library
-- **TypeScript** - Type safety
-- **Tailwind CSS v4** - Styling
-- **Axios** - HTTP client
-- **React Hot Toast** - Toast notifications
-- **js-cookie** - Cookie management
-- **Lucide React** - Icon library
-- **DummyJSON API** - Mock backend API
+**Next.js • React • Tailwind CSS • Axios**
+
+Additional libraries:
+- TypeScript - Type safety
+- React Hot Toast - Notifications
+- js-cookie - Cookie management
+- Lucide React - Icons
+- DummyJSON API - Backend
 
 ## 📄 License
 
