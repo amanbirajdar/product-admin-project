@@ -149,15 +149,6 @@ src/
 
 This ensures the UI always shows results from the most recent search query, even when typing quickly.
 
-### Where AI Helped
-
-I wrote most of the code myself, but AI assisted with a few specific tasks:
-
-1. **TypeScript Interfaces**: AI helped generate the `Product` and `ProductsResponse` type definitions from the DummyJSON API response
-2. **Documentation**: AI helped format code comments and generate this README file
-3. **Debugging**: When search race conditions occurred, AI suggested using Axios CancelToken approach
-
-Everything else - the component architecture, state management, pagination logic, UI design, authentication flow, and INR currency implementation - was written and designed by me. I understand every line of code and can explain and modify any part of the application.
 
 ## 🧪 Testing Checklist
 

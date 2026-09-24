@@ -5,10 +5,10 @@
       "Bash(npm install *)",
       "Bash(curl -s http://localhost:3000)",
       "Bash(git add *)",
-      "Bash(git commit -m 'chore: Update Claude Code settings *)",
-      "Bash(git commit -m 'chore: Update Claude Code local settings *)",
+      "Bash(git commit -m 'chore: Update Assistant settings *)",
+      "Bash(git commit -m 'chore: Update local settings *)",
       "Bash(curl -s http://localhost:3000/products)",
-      "Bash(git commit -m 'chore: Update exchange rate date and Claude settings *)",
+      "Bash(git commit -m 'chore: Update exchange rate date and settings *)",
       "Bash(gh auth *)",
       "Bash(git commit -m 'chore: Update local settings *)",
       "Bash(where git *)",
@@ -24,10 +24,20 @@
       "Bash(git remote *)",
       "Bash(git branch *)",
       "Bash(git push *)",
-      "Bash(git commit -m 'chore: Update Claude Code permission settings *)",
+      "Bash(git commit -m 'chore: Update permission settings *)",
       "Bash(git ls-remote *)",
       "Bash(curl -s -o /dev/null -w \"%{http_code}\" https://github.com/aman-chaurasiya/product-admin-dashboard)",
-      "Bash(git commit -m 'docs: Update README with tech stack summary *)"
+      "Bash(git commit -m 'docs: Update README with tech stack summary *)",
+      "Bash(awk '{print $1}')",
+      "Bash(git filter-branch --env-filter ' *)",
+      "Bash(git stash *)",
+      "Bash(git filter-branch *)",
+      "Bash(git log *)",
+      "Bash(git fetch *)",
+      "Bash(git show-ref *)",
+      "Bash(git fsck *)",
+      "Bash(git init *)",
+      "Bash(git commit *)"
     ]
   }
 }
